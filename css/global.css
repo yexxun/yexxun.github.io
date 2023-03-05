@@ -330,7 +330,7 @@ button:hover, button:focus {
     }
 
     .title h2 {
-        padding-top: 80px;
+        padding-top: 135px;
     }
 
 
@@ -387,7 +387,7 @@ button:hover, button:focus {
     }
 
     section:nth-of-type(2) {
-        height: 70vh;
+        height: 50vh;
     }
 
     section:nth-of-type(3) {
